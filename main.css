@@ -1,0 +1,1 @@
+body{color:#999}.playground{display:flex;flex-wrap:wrap;height:80vh;list-style-type:none;margin:0 auto;width:80vh}.playground-item{background-color:#999;border:1px solid #000;height:20vh;margin:10px;position:relative;width:20%}.playground-img{position:absolute;top:50%;transform:translateY(-50%);width:100%}
